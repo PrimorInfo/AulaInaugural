@@ -1,5 +1,5 @@
 # Aula Inaugural
- Primeiro Repositorio
+ Primeiro Repositório
 
  Olá, Mundo!
- 
+
